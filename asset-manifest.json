@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ca15378.css",
+    "main.js": "/static/js/main.a011686e.js",
+    "static/js/787.a1f12d21.chunk.js": "/static/js/787.a1f12d21.chunk.js",
+    "static/media/team-4.jpg": "/static/media/team-4.03f00560a6d18e0152e2.jpg",
+    "static/media/woman-g63242e222_1920.jpg": "/static/media/woman-g63242e222_1920.fc71c32970052b20e181.jpg",
+    "static/media/about.jpg": "/static/media/about.972802c810ecc64c7349.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.8d4592405df4fc1e912f.jpg",
+    "static/media/team-1.jpg": "/static/media/team-1.9be3601c41a0796c4564.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.9bc8958e33a74ae02351.jpg",
+    "static/media/price-4.jpg": "/static/media/price-4.b26f5d4eff140a3b719b.jpg",
+    "static/media/price-3.jpg": "/static/media/price-3.41bc1f797c08078ae9de.jpg",
+    "static/media/price-2.jpg": "/static/media/price-2.7fec3b6ce33553ca638f.jpg",
+    "static/media/price-1.jpg": "/static/media/price-1.4621a41acfb0c29f5935.jpg",
+    "index.html": "/index.html",
+    "main.4ca15378.css.map": "/static/css/main.4ca15378.css.map",
+    "main.a011686e.js.map": "/static/js/main.a011686e.js.map",
+    "787.a1f12d21.chunk.js.map": "/static/js/787.a1f12d21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca15378.css",
+    "static/js/main.a011686e.js"
+  ]
+}
